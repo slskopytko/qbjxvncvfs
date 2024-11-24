@@ -1,0 +1,4 @@
+- pipeline: ycsvmxwmfx
+  refs:
+  - refs/heads/master
+  on: CLICK
