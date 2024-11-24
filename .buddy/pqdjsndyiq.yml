@@ -1,0 +1,4 @@
+- pipeline: pqdjsndyiq
+  refs:
+  - refs/heads/master
+  on: CLICK
